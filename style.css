@@ -15,6 +15,7 @@ main{
     position: relative;
     height: 80px;
     width: 250px;
+    perspective: 1000px;
 }
 .absolute{
     position: absolute;
